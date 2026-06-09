@@ -2,7 +2,7 @@
   "card_radius": "28px",
   "matrix_enabled": true,
   "muted_text_color": "#a5c9ad",
-  "matrix_opacity": 0,
+  "matrix_opacity": 1,
   "accent_color": "#35e57f",
   "ui_sounds_enabled": true,
   "text_color": "#e8ffee",
