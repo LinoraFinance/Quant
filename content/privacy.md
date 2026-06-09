@@ -1,7 +1,6 @@
 ---
 title: Privacy Policy
 ---
-
 ## Privacy policy
 
 QUANTHEXA operates this website, including related information, content, features, tools and services, in order to provide visitors and customers with information about our software development, IT operations, system management, support and maintenance services. This Privacy Policy describes how we collect, use and disclose personal information when you visit or use the website, request a service, submit a form, make a purchase or other transaction, or otherwise communicate with us.
@@ -117,5 +116,3 @@ We may update this Privacy Policy from time to time, including to reflect change
 Should you have any questions about our privacy practices or this Privacy Policy, or if you would like to exercise any rights available to you, please email us at contact@quanthexa.online or contact us at 60 RUE FRANCOIS IER, 75008 PARIS.
 
 For the purpose of applicable data protection laws, QUANTHEXA is the data controller of your personal information.
-
-Company information: QUANTHEXA, SASU, SIREN 101 651 925, registered office 60 RUE FRANCOIS IER, 75008 PARIS.
