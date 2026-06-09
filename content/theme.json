@@ -6,7 +6,7 @@
   "accent_color": "#35e57f",
   "ui_sounds_enabled": true,
   "text_color": "#e8ffee",
-  "background_color": "#55555",
+  "background_color": "#010302",
   "custom_css": "",
   "custom_css_notes": "Use custom_css in Global Settings or any page to override anything.",
   "preloader_enabled": true,
