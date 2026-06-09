@@ -1,9 +1,6 @@
 ---
 title: Privacy Policy
 ---
-
-## Privacy policy
-
 QUANTHEXA operates this website, including related information, content, features, tools and services, in order to provide visitors and customers with information about our software development, IT operations, system management, support and maintenance services. This Privacy Policy describes how we collect, use and disclose personal information when you visit or use the website, request a service, submit a form, make a purchase or other transaction, or otherwise communicate with us.
 
 Please read this Privacy Policy carefully. By using and accessing the website or our services, you acknowledge that you have read this Privacy Policy and understand the collection, use and disclosure of your information as described in this Privacy Policy.
