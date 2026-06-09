@@ -1,15 +1,15 @@
 {
-  "accent_color": "#35e57f",
-  "accent_soft": "#1d8f52",
-  "background_color": "#010302",
-  "text_color": "#e8ffee",
+  "card_radius": "28px",
+  "matrix_enabled": false,
   "muted_text_color": "#a5c9ad",
-  "matrix_enabled": true,
   "matrix_opacity": 1,
+  "accent_color": "#35e57f",
+  "ui_sounds_enabled": true,
+  "text_color": "#e8ffee",
+  "background_color": "#010302",
+  "custom_css": "",
+  "custom_css_notes": "Use custom_css in Global Settings or any page to override anything.",
   "preloader_enabled": true,
   "cursor_enabled": true,
-  "ui_sounds_enabled": true,
-  "card_radius": "28px",
-  "custom_css_notes": "Use custom_css in Global Settings or any page to override anything.",
-  "custom_css": ""
+  "accent_soft": "#1d8f52"
 }
