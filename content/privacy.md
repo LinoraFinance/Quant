@@ -116,3 +116,5 @@ We may update this Privacy Policy from time to time, including to reflect change
 Should you have any questions about our privacy practices or this Privacy Policy, or if you would like to exercise any rights available to you, please email us at contact@quanthexa.online or contact us at 60 RUE FRANCOIS IER, 75008 PARIS.
 
 For the purpose of applicable data protection laws, QUANTHEXA is the data controller of your personal information.
+
+Company information: QUANTHEXA, SASU, SIREN 101 651 925, registered office 60 RUE FRANCOIS IER, 75008 PARIS.
