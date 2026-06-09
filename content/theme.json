@@ -1,6 +1,6 @@
 {
   "card_radius": "28px",
-  "matrix_enabled": true,
+  "matrix_enabled": false,
   "muted_text_color": "#a5c9ad",
   "matrix_opacity": 1,
   "accent_color": "#35e57f",
